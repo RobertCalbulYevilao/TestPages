@@ -1,1 +1,7 @@
-["mg", "g", "kg", "ml", "lt"]
+[
+	{ "id": 0, "name": "mg" },
+	{ "id": 1, "name": "g" },
+	{ "id": 2, "name": "kg" },
+	{ "id": 3, "name": "ml" },
+	{ "id": 4, "name": "lt" }
+]

@@ -1,6 +1,6 @@
 [
 	{
-		"idDiagnostic": "diag01",
+		"idDiagnostic": 1,
 		"protocols": [
 			{
 				"id": "proto1",
@@ -15,11 +15,11 @@
 		]
 	},
 	{
-		"idDiagnostic": "diag02",
+		"idDiagnostic": 2,
 		"protocols": []
 	},
 	{
-		"idDiagnostic": "diag03",
+		"idDiagnostic": 3,
 		"protocols": [
 			{
 				"id": "proto2",

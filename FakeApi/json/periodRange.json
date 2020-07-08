@@ -1,1 +1,5 @@
-["Días", "Meses", "Años"]
+[
+	{ "id": 0, "name": "Días" },
+	{ "id": 1, "name": "Meses" },
+	{ "id": 2, "name": "Años" }
+]
