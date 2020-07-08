@@ -1,6 +1,6 @@
 [
 	{
-		"id": "med01",
+		"id": 1,
 		"image": "med01",
 		"name": "It was a humorously perilo.",
 		"tags": ["Comprimido"],
@@ -14,7 +14,7 @@
 		"description": "The monkey-rope is found in all whalers; but it was only."
 	},
 	{
-		"id": "med02",
+		"id": 2,
 		"image": "meds",
 		"name": "It was a humorously perilo.",
 		"tags": ["Comprimido", "Jarabe", "gotas"],
@@ -28,7 +28,7 @@
 		"description": "The monkey-rope is found in all whalers; but it was only."
 	},
 	{
-		"id": "med03",
+		"id": 3,
 		"image": "med01",
 		"name": "It was a humorously perilo.",
 		"tags": ["gotas"],
