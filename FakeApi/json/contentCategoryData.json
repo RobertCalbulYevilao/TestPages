@@ -1,7 +1,6 @@
 [
 	{
 		"id": 1,
-		"title": "Alimentos",
 		"image": "https://raw.githubusercontent.com/RobertCalbulYevilao/TestPages/2b0dc68518c6708b73625b0fa1f5041f2699e616/FakeApi/images/veggies.svg",
 		"startColor": "#EE9923 ",
 		"endColor": "#ED7643"
@@ -15,35 +14,30 @@
 	},
 	{
 		"id": 3,
-		"title": "Tratamientos",
 		"image": "https://raw.githubusercontent.com/RobertCalbulYevilao/TestPages/2b0dc68518c6708b73625b0fa1f5041f2699e616/FakeApi/images/treatment.svg",
 		"startColor": "#5157B0",
 		"endColor": "#3A3F95"
 	},
 	{
 		"id": 4,
-		"title": "Psicología",
 		"image": "https://raw.githubusercontent.com/RobertCalbulYevilao/TestPages/2b0dc68518c6708b73625b0fa1f5041f2699e616/FakeApi/images/psico.svg",
 		"startColor": "#CB7FDA",
 		"endColor": "#9361C8"
 	},
 	{
 		"id": 5,
-		"title": "Tecnología",
 		"image": "https://raw.githubusercontent.com/RobertCalbulYevilao/TestPages/2b0dc68518c6708b73625b0fa1f5041f2699e616/FakeApi/images/tech.svg",
 		"startColor": "#579AD2",
 		"endColor": "#3687CC"
 	},
 	{
 		"id": 6,
-		"title": "Social",
 		"image": "https://raw.githubusercontent.com/RobertCalbulYevilao/TestPages/2b0dc68518c6708b73625b0fa1f5041f2699e616/FakeApi/images/social.svg",
 		"startColor": "#04A3C5",
 		"endColor": "#00B4DB"
 	},
 	{
 		"id": 7,
-		"title": "Investigación",
 		"image": "https://raw.githubusercontent.com/RobertCalbulYevilao/TestPages/2b0dc68518c6708b73625b0fa1f5041f2699e616/FakeApi/images/invest.svg",
 		"startColor": "#6B9DFF",
 		"endColor": "#717CFF"
