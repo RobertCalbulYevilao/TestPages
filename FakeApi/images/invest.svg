@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="98px" height="98px" viewBox="0 0 98 98" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>invest</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="94.4337856%" y1="100%" x2="19.3065952%" y2="14.6821041%" id="linearGradient-1">
+            <stop stop-color="#F061D1" offset="0%"/>
+            <stop stop-color="#DD33A4" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="50%" y1="116.356238%" x2="50%" y2="0%" id="linearGradient-2">
+            <stop stop-color="#FF90E5" offset="0%"/>
+            <stop stop-color="#FF57C7" offset="100%"/>
+        </linearGradient>
+        <path d="M0.8505,0.449336426 L5.02824902,0.449336426 L5.4866606,19.6458921 C5.50908784,20.5850608 4.76592211,21.3645882 3.8267535,21.3870155 C3.81321987,21.3873386 3.79968287,21.3875002 3.78614539,21.3875002 L2.16114776,21.3875002 C1.2217114,21.3875002 0.460147761,20.6259366 0.460147761,19.6865002 C0.460147761,19.6749861 0.460264672,19.6634722 0.460498474,19.6519604 L0.8505,0.449336426 L0.8505,0.449336426 Z" id="path-3"/>
+    </defs>
+    <g id="invest" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" transform="translate(4.270000, 16.500000)">
+            <polygon id="Path-75" fill="#FFA0DF" points="41.3368808 69.3 89.2168808 47.25 86.6968808 46.62 35.0368808 57.33"/>
+            <polygon id="Path-79" fill="#DFCB92" points="42.5968808 67.41 39.4468808 64.26 39.4468808 56.7 42.5968808 57.33"/>
+            <path d="M0.276138631,18.8593945 L41.3368808,57.33 L41.2745389,57.9534197 C40.8971484,61.7273241 40.9180442,65.5304703 41.3368808,69.3 L41.3368808,69.3 L41.3368808,69.3 L0.276138631,29.5693945 C-0.0692162301,26.244331 -0.0906843566,22.8935781 0.21203683,19.5643624 L0.276138631,18.8593945 L0.276138631,18.8593945 Z" id="Rectangle" fill="url(#linearGradient-1)"/>
+            <polygon id="Path-76" fill="#FFF1C9" points="86.6968808 38.43 86.6968808 47.88 42.5968808 67.41 42.5968808 56.7"/>
+            <polygon id="Path-74" fill="url(#linearGradient-2)" points="0.276138631 18.8645087 47.0068808 7.10542736e-15 87.9568808 38.43 41.3368808 57.33"/>
+            <polygon id="Path-77" fill="#BA1583" points="87.9568808 38.43 87.9568808 39.06 41.3368808 57.96 41.3368808 57.33"/>
+            <polygon id="Path-78" fill="#BA1583" points="41.3368808 69.3 41.3368808 68.67 89.2168808 47.25 89.2168808 47.88"/>
+            <path d="M41.3368808,57.33 C40.9131621,61.1434685 40.895876,64.9213734 41.2776654,68.7392677 L41.3400074,69.3626873 L42.5968808,68.67 L42.5314123,68.613893 C42.1584208,64.8839783 42.1829263,61.0555909 42.5968808,57.33 L41.3368808,57.33 Z" id="Path-80" fill="#BA1583" fill-rule="nonzero"/>
+            <line x1="73.4668808" y1="48.195" x2="42.5968808" y2="61.11" id="Path-81" stroke="#DFCB92" stroke-width="0.5"/>
+            <line x1="86.6968808" y1="44.0796973" x2="42.5968808" y2="62.3496973" id="Path-81-Copy" stroke="#DFCB92" stroke-width="0.5"/>
+            <line x1="86.6968808" y1="46.3874414" x2="42.5968808" y2="64.6574414" id="Path-81-Copy-2" stroke="#DFCB92" stroke-width="0.5"/>
+            <line x1="86.6968808" y1="40.7302075" x2="62.1268808" y2="51.03" id="Path-81-Copy-3" stroke="#DFCB92" stroke-width="0.5"/>
+            <g id="Group" transform="translate(26.116510, 7.214697)">
+                <ellipse id="Oval-Copy" fill="#4652E0" cx="17.8605" cy="12.882085" rx="17.8605" ry="11.907"/>
+                <ellipse id="Oval" fill="#717CFF" cx="17.8605" cy="11.907" rx="17.8605" ry="11.907"/>
+                <ellipse id="Oval" fill="#4652E0" cx="17.8605" cy="11.907" rx="15.6713506" ry="10.447567"/>
+                <ellipse id="Oval" fill="#FF9CE1" cx="17.8605" cy="12.1625269" rx="15.2880601" ry="10.1920401"/>
+                <g id="Path-82" transform="translate(15.734250, 23.814000)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"/>
+                    </mask>
+                    <use id="Mask" fill="#717CFF" xlink:href="#path-3"/>
+                    <polygon fill="#4652E0" mask="url(#mask-4)" points="0.42525 0.449336426 1.27575 0.449336426 1.27575 21.3875002 0.42525 20.5499737"/>
+                </g>
+                <rect id="Rectangle" fill="#A6ADFF" x="16.1595" y="42.6500002" width="5.103" height="2.5515" rx="1.27575"/>
+            </g>
+        </g>
+    </g>
+</svg>

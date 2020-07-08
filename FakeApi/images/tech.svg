@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="98px" height="98px" viewBox="0 0 98 98" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>tech</title>
+    <defs>
+        <path d="M45.125355,1.54945726 L59.812,41.9019532 L59.812,57.4279532 L21.6779202,71.3087506 C20.6399644,71.6865357 19.4922797,71.1513615 19.1144947,70.1134057 L0.121159062,17.929645 C-0.256625956,16.8916892 0.278548209,15.7440045 1.31650402,15.3662195 L42.5619295,0.3541123 C43.5998853,-0.0236727184 44.74757,0.511501447 45.125355,1.54945726 Z" id="path-1"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#D8D8D8" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="-2.22044605e-14%" y2="50%" id="linearGradient-4">
+            <stop stop-color="#F7F7F7" offset="0%"></stop>
+            <stop stop-color="#D9D9D9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="tech" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M84.8483228,12.8715875 L97.9993218,49.0038314 L97.9993218,72.9688314 L59.6987644,86.9102442 C58.1418307,87.4769217 56.4203037,86.6741605 55.8536261,85.1172268 L36.0260604,30.6414377 C35.4593829,29.084504 36.2621442,27.362977 37.8190779,26.7962994 L81.0031845,11.07857 C82.5601182,10.5118925 84.2816453,11.3146537 84.8483228,12.8715875 Z" id="Combined-Shape" fill="#000000"></path>
+        <g id="Rectangle" transform="translate(38.187924, 13.162434)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#494949" xlink:href="#path-1"></use>
+            <rect fill="url(#linearGradient-3)" style="mix-blend-mode: soft-light;" mask="url(#mask-2)" transform="translate(34.302806, 38.500000) rotate(25.000000) translate(-34.302806, -38.500000) " x="26.8028059" y="-1" width="15" height="79"></rect>
+        </g>
+        <g id="Group-2" transform="translate(31.099680, 51.662434) rotate(-50.000000) translate(-31.099680, -51.662434) translate(28.599680, 13.162434)">
+            <path d="M2.5,0 C3.88071187,-2.53632657e-16 5,1.11928813 5,2.5 L5,69.7928382 C5,70.0553648 4.96554052,70.3167558 4.89750457,70.5703131 L3.08740323,77.3162242 C3.00152572,77.6362738 2.67245685,77.8261077 2.35240733,77.7402302 C2.14412096,77.6843416 1.98184975,77.5209728 1.92736643,77.3123145 L0.0973205483,70.3036675 C0.0327054297,70.0562068 6.04274538e-14,69.801499 4.4408921e-16,69.5457414 L4.4408921e-16,2.5 C2.75000772e-16,1.11928813 1.11928813,2.53632657e-16 2.5,0 Z" id="Rectangle" fill="#FFFFFF"></path>
+            <rect id="Rectangle" fill="url(#linearGradient-4)" x="1.34753418" y="4.31298353" width="2.30493164" height="65.7629442" rx="1.15246582"></rect>
+        </g>
+    </g>
+</svg>
