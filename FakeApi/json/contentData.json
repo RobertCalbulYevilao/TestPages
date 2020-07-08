@@ -12,7 +12,7 @@
 	{
 		"id": 2,
 		"title": "Cuidados en casa",
-		"image": "https://github.com/RobertCalbulYevilao/TestPages/blob/master/FakeApi/images/aidkit.svg",
+		"image": "https://raw.githubusercontent.com/RobertCalbulYevilao/TestPages/master/FakeApi/images/aidkit.svg",
 		"startColor": "#DF5A5A",
 		"endColor": "#A81D1D",
 		"imageRef": "https://i.blogs.es/3efb84/pastillas_tinima20131118_0024_5/1366_2000.jpg",
