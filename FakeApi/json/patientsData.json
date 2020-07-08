@@ -16,7 +16,7 @@
 		"phone": "+569 11111111",
 		"address": "calle siempreviva 747, Springfield",
 		"responsibles": ["Julio Peñailillo", "Sergio Barrientos", "Carlos Mohor", " Felipe Ramirez"],
-		"diagnosis": ["diag01"],
+		"diagnosis": [1],
 		"userTypeId": 2
 	},
 	{
