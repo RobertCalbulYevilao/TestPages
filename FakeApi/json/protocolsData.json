@@ -1,6 +1,4 @@
 [
-	{
-		"idDiagnostic": 1,
 		"protocols": [
 			{
 				"id": 1,
@@ -11,56 +9,17 @@
 				"unitId": 1,
 				"startDate": "03/04/2019",
 				"endDate": "03/07/2019"
-			}
-		]
-	},
-	{
-		"idDiagnostic": 2,
-		"protocols": []
-	},
-	{
-		"idDiagnostic": 3,
-		"protocols": [
+			},
 			{
 				"id": 2,
-				"name": "Protocolo 3",
-				"description": "Descripcion protocolo 3, So strongly and metaphysically did I conceive of my situation then, that while earnestly watching his motions, I seemed distinc.",
+				"name": "Protocolo 2",
+				"description": "Descripcion protocolo 1, So strongly and metaphysically did I conceive of my situation then, that while earnestly watching his motions, I seemed distinc.",
 				"patientCount": 1,
-				"duration": 3,
-				"unitId": 2,
-				"startDate": "03/04/2019",
-				"endDate": "03/07/2019"
-			},
-			{
-				"id": 3,
-				"name": "Protocolo 4",
-				"description": "",
-				"patientCount": 0,
-				"duration": 3,
-				"unitId": 0,
-				"startDate": "03/04/2019",
-				"endDate": "6/04/2019"
-			},
-			{
-				"id": 4,
-				"name": "Protocolo 5",
-				"description": "Descripcion protocolo 5, So strongly and metaphysically did I conceive of my situation then, that while earnestly watching his motions, I seemed distinc.",
-				"patientCount": 1,
-				"duration": 2,
-				"unitId": 0,
-				"startDate": "03/04/2019",
-				"endDate": "06/04/2019"
-			},
-			{
-				"id": 5,
-				"name": "Protocolo 6",
-				"description": "6",
-				"patientCount": 0,
 				"duration": 3,
 				"unitId": 1,
 				"startDate": "03/04/2019",
-				"endDate": "24/04/2019"
+				"endDate": "03/07/2019"
 			}
 		]
-	}
+	
 ]
