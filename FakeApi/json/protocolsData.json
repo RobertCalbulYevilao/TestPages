@@ -1,5 +1,4 @@
-[
-		"protocols": [
+ [
 			{
 				"id": 1,
 				"name": "Protocolo 1",
@@ -21,5 +20,3 @@
 				"endDate": "03/07/2019"
 			}
 		]
-	
-]
