@@ -1,8 +1,8 @@
 [
 	{
 		"id": 1,
-		"image": "med01",
-		"name": "https://raw.githubusercontent.com/RobertCalbulYevilao/TestPages/master/FakeApi/images/paracetamol.jpeg",
+		"image": "https://raw.githubusercontent.com/RobertCalbulYevilao/TestPages/master/FakeApi/images/paracetamol.jpeg",
+		"name": "Paracetamol",
 		"tags": ["Comprimido"],
 		"types": [
 			{ "name": "Comprimido", "elements": [] },
