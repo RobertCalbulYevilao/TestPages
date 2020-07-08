@@ -1,0 +1,11 @@
+{
+	"id": 1,
+	"tablet": [{ "idDetail": "comp01", "detail": "100 mg - Bushwick meh Blue Bottle pork belly musta." }],
+	"syrup": [],
+	"drops": [
+		{ "idDetail": "got01", "detail": "100 mg / ml - Bushwick meh Blue Bottle pork belly musta go" },
+		{ "idDetail": "got02", "detail": "100 mg / ml - Bushwick meh Blue Bottle pork belly musta go 2" }
+	],
+	"inhaler": [],
+	"ointment": []
+}
