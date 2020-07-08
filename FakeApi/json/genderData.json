@@ -1,4 +1,4 @@
 [
-	{ "id": 1, "name": "Masculino" },
-	{ "id": 2, "name": "Femenino" }
+	{ "id": 0, "name": "Masculino" },
+	{ "id": 1, "name": "Femenino" }
 ]
