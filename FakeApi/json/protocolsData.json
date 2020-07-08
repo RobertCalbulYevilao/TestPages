@@ -3,7 +3,7 @@
 		"idDiagnostic": 1,
 		"protocols": [
 			{
-				"id": "proto1",
+				"id": 1,
 				"name": "Protocolo 1",
 				"description": "Descripcion protocolo 1, So strongly and metaphysically did I conceive of my situation then, that while earnestly watching his motions, I seemed distinc.",
 				"patientCount": 1,
@@ -22,7 +22,7 @@
 		"idDiagnostic": 3,
 		"protocols": [
 			{
-				"id": "proto2",
+				"id": 2,
 				"name": "Protocolo 3",
 				"description": "Descripcion protocolo 3, So strongly and metaphysically did I conceive of my situation then, that while earnestly watching his motions, I seemed distinc.",
 				"patientCount": 1,
@@ -32,7 +32,7 @@
 				"endDate": "03/07/2019"
 			},
 			{
-				"id": "proto3",
+				"id": 3,
 				"name": "Protocolo 4",
 				"description": "",
 				"patientCount": 0,
@@ -42,7 +42,7 @@
 				"endDate": "6/04/2019"
 			},
 			{
-				"id": "proto4",
+				"id": 4,
 				"name": "Protocolo 5",
 				"description": "Descripcion protocolo 5, So strongly and metaphysically did I conceive of my situation then, that while earnestly watching his motions, I seemed distinc.",
 				"patientCount": 1,
@@ -52,7 +52,7 @@
 				"endDate": "06/04/2019"
 			},
 			{
-				"id": "proto5",
+				"id": 5,
 				"name": "Protocolo 6",
 				"description": "6",
 				"patientCount": 0,
