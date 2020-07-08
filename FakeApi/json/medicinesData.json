@@ -1,0 +1,44 @@
+[
+	{
+		"id": "med01",
+		"image": "med01",
+		"name": "It was a humorously perilo.",
+		"tags": ["Comprimido"],
+		"types": [
+			{ "name": "Comprimido", "elements": [] },
+			{ "name": "Jarabe", "elements": [] },
+			{ "name": "gotas", "elements": [] },
+			{ "name": "Inhalador", "elements": [] },
+			{ "name": "Ungüento", "elements": [] }
+		],
+		"description": "The monkey-rope is found in all whalers; but it was only."
+	},
+	{
+		"id": "med02",
+		"image": "meds",
+		"name": "It was a humorously perilo.",
+		"tags": ["Comprimido", "Jarabe", "gotas"],
+		"types": [
+			{ "name": "Comprimido", "elements": [] },
+			{ "name": "Jarabe", "elements": [] },
+			{ "name": "gotas", "elements": [] },
+			{ "name": "Inhalador", "elements": [] },
+			{ "name": "Ungüento", "elements": [] }
+		],
+		"description": "The monkey-rope is found in all whalers; but it was only."
+	},
+	{
+		"id": "med03",
+		"image": "med01",
+		"name": "It was a humorously perilo.",
+		"tags": ["gotas"],
+		"types": [
+			{ "name": "Comprimido", "elements": [] },
+			{ "name": "Jarabe", "elements": [] },
+			{ "name": "gotas", "elements": ["", ""] },
+			{ "name": "Inhalador", "elements": [] },
+			{ "name": "Ungüento", "elements": [] }
+		],
+		"description": "The monkey-rope is found in all whalers; but it was only."
+	}
+]

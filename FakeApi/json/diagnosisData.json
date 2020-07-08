@@ -1,0 +1,20 @@
+[
+	{
+		"id": "diag01",
+		"name": "Diagnóstico 1",
+		"description": "In the tumultuous business of cutting-in and attending to a whale, there is much running backwards and forwards among the crew.",
+		"protocolsCount": 3
+	},
+	{
+		"id": "diag02",
+		"name": "Diagnóstico  2 ",
+		"description": "In the tumultuous business of cutting-in and attending to a whale, there is much running backwards and forwards among the crew.",
+		"protocolsCount": 1
+	},
+	{
+		"id": "diag03",
+		"name": "Diagnóstico 3",
+		"description": "In the tumultuous business of cutting-in and attending to a whale, there is much running backwards and forwards among the crew.",
+		"protocolsCount": 2
+	}
+]
