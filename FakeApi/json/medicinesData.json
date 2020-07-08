@@ -2,7 +2,7 @@
 	{
 		"id": 1,
 		"image": "med01",
-		"name": "It was a humorously perilo.",
+		"name": "https://raw.githubusercontent.com/RobertCalbulYevilao/TestPages/master/FakeApi/images/paracetamol.jpeg",
 		"tags": ["Comprimido"],
 		"types": [
 			{ "name": "Comprimido", "elements": [] },
@@ -15,27 +15,13 @@
 	},
 	{
 		"id": 2,
-		"image": "meds",
-		"name": "It was a humorously perilo.",
+		"image": "https://raw.githubusercontent.com/RobertCalbulYevilao/TestPages/master/FakeApi/images/paracetamol.jpeg",
+		"name": "Paracetamol 2",
 		"tags": ["Comprimido", "Jarabe", "gotas"],
 		"types": [
 			{ "name": "Comprimido", "elements": [] },
 			{ "name": "Jarabe", "elements": [] },
 			{ "name": "gotas", "elements": [] },
-			{ "name": "Inhalador", "elements": [] },
-			{ "name": "Ungüento", "elements": [] }
-		],
-		"description": "The monkey-rope is found in all whalers; but it was only."
-	},
-	{
-		"id": 3,
-		"image": "med01",
-		"name": "It was a humorously perilo.",
-		"tags": ["gotas"],
-		"types": [
-			{ "name": "Comprimido", "elements": [] },
-			{ "name": "Jarabe", "elements": [] },
-			{ "name": "gotas", "elements": ["", ""] },
 			{ "name": "Inhalador", "elements": [] },
 			{ "name": "Ungüento", "elements": [] }
 		],
