@@ -1,6 +1,7 @@
 [
 	{
 		"id": 1,
+		"diagnosisName": "Diagnóstico 1",
 		"name": "Protocolo 1",
 		"description": "Descripcion protocolo 1, So strongly and metaphysically did I conceive of my situation then, that while earnestly watching his motions, I seemed distinc.",
 		"patientCount": 1,
@@ -11,6 +12,7 @@
 	},
 	{
 		"id": 2,
+		"diagnosisName": "Diagnóstico 1",
 		"name": "Protocolo 2",
 		"description": "Descripcion protocolo 1, So strongly and metaphysically did I conceive of my situation then, that while earnestly watching his motions, I seemed distinc.",
 		"patientCount": 1,
