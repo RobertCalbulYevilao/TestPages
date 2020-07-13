@@ -1,0 +1,16 @@
+[
+	{
+		"id": 2,
+		"image": "https://raw.githubusercontent.com/RobertCalbulYevilao/TestPages/master/FakeApi/images/paracetamol.jpeg",
+		"name": "Paracetamol 2",
+		"tags": ["Comprimido", "Jarabe", "gotas"],
+		"types": [
+			{ "name": "Comprimido", "elements": [] },
+			{ "name": "Jarabe", "elements": [] },
+			{ "name": "gotas", "elements": [] },
+			{ "name": "Inhalador", "elements": [] },
+			{ "name": "Ungüento", "elements": [] }
+		],
+		"description": "The monkey-rope is found in all whalers; but it was only."
+	}
+]
