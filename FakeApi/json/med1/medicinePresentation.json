@@ -5,8 +5,7 @@
 	],
 	"syrup": [],
 	"drops": [
-		{ "idDetail": "got01", "detail": "100 mg / ml", "opcional": "OP 2 Bushwick meh Blue Bottle pork belly musta." },
-		{ "idDetail": "got02", "detail": "100 mg / ml", "opcional": "OP 3 Bushwick meh Blue Bottle pork belly musta." }
+		{ "idDetail": "got01", "detail": "100 mg / ml", "opcional": "OP 2 Bushwick meh Blue Bottle pork belly musta." }
 	],
 	"inhaler": [],
 	"ointment": []
