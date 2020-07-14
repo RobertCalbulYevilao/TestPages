@@ -1,11 +1,21 @@
 {
 	"id": 1,
 	"tablet": [
-		{ "idDetail": "comp01", "detail": "100 mg", "opcional": " OP 1 Bushwick meh Blue Bottle pork belly musta." }
+		{
+			"idDetail": "comp01",
+			"detail": "100 mg",
+			"opcional": " OP 1 Bushwick meh Blue Bottle pork belly musta.",
+			"isRecommended": true
+		}
 	],
 	"syrup": [],
 	"drops": [
-		{ "idDetail": "got01", "detail": "100 mg / ml", "opcional": "OP 2 Bushwick meh Blue Bottle pork belly musta." }
+		{
+			"idDetail": "got01",
+			"detail": "100 mg / ml",
+			"opcional": "OP 2 Bushwick meh Blue Bottle pork belly musta.",
+			"isRecommended": false
+		}
 	],
 	"inhaler": [],
 	"ointment": []
