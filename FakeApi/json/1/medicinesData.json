@@ -11,7 +11,8 @@
 			{ "name": "Inhalador", "elements": [] },
 			{ "name": "Ungüento", "elements": [] }
 		],
-		"description": "The monkey-rope is found in all whalers; but it was only."
+		"description": "The monkey-rope is found in all whalers; but it was only.",
+		"isPaused": false
 	},
 	{
 		"id": 2,
@@ -25,7 +26,8 @@
 			{ "name": "Inhalador", "elements": [] },
 			{ "name": "Ungüento", "elements": [] }
 		],
-		"description": "The monkey-rope is found in all whalers; but it was only."
+		"description": "The monkey-rope is found in all whalers; but it was only.",
+		"isPaused": true
 	},
 	{
 		"id": 2,
@@ -39,6 +41,7 @@
 			{ "name": "Inhalador", "elements": [] },
 			{ "name": "Ungüento", "elements": [] }
 		],
-		"description": "The monkey-rope is found in all whalers; but it was only."
+		"description": "The monkey-rope is found in all whalers; but it was only.",
+		"isPaused": false
 	}
 ]
